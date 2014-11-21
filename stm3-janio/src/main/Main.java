@@ -9,7 +9,9 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Proyecto original stm3");
-		System.out.println("Primer cambio de rama master");
+		System.out.println("Primer cambio en rama master");
+		System.out.println("Segundo cambio");
+		
 		
 
 	}
