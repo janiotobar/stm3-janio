@@ -13,8 +13,12 @@ public class Main {
 		System.out.println("Segundo cambio en rama master");
 		System.out.println("Tercer cambio en rama master");
 		System.out.println("Cuarto cambio en rama master");
+<<<<<<< HEAD
 		System.out.println("Sexto cambio en rama master");
 		
+=======
+		System.out.println("Quinto cambio en rama master");
+>>>>>>> branch 'master' of git@github.com:janiotobar/stm3-janio.git
 		
 		
 
